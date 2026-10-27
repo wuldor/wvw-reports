@@ -1,0 +1,46 @@
+{
+  "colorPalette": "amber-warm",
+  "axiTheme": "flat",
+  "glass": false,
+  "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.9"
+  },
+  "entries": [
+    {
+      "id": "20261025-194913-l8a2",
+      "title": "Sïlq",
+      "commanders": [
+        "Sïlq"
+      ],
+      "guild": {
+        "id": "7067EEC4-FBCE-EC11-81B7-C3B1C0E42B51",
+        "name": "Two Elephants Fall Off A Cliff",
+        "tag": "WHAT"
+      },
+      "dateStart": "2026-10-25T19:49:13.000Z",
+      "dateEnd": "2026-10-25T20:47:53.711Z",
+      "dateLabel": "25/10/2026, 19:49:13 - 25/10/2026, 20:47:53",
+      "url": "https://wuldor.github.io/wvw-reports/?report=20261025-194913-l8a2",
+      "publishedBy": "wuldor",
+      "summary": {
+        "borderlandsPct": 0.3225806451612903,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 41
+      }
+    }
+  ]
+}
