@@ -1,11 +1,46 @@
 {
   "colorPalette": "amber-warm",
-  "axiTheme": "flat",
+  "axiTheme": "default",
   "glass": false,
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.9"
+    "version": "3.22.10"
   },
-  "entries": []
+  "entries": [
+    {
+      "id": "20261028-190110-kg7e",
+      "title": "Deelísh",
+      "commanders": [
+        "Deelísh"
+      ],
+      "guild": {
+        "id": "7067EEC4-FBCE-EC11-81B7-C3B1C0E42B51",
+        "name": "Two Elephants Fall Off A Cliff",
+        "tag": "WHAT"
+      },
+      "dateStart": "2026-10-28T19:01:10.000Z",
+      "dateEnd": "2026-10-28T20:08:37.487Z",
+      "dateLabel": "28/10/2026, 19:01:10 - 28/10/2026, 20:08:37",
+      "url": "https://wuldor.github.io/wvw-reports/?report=20261028-190110-kg7e",
+      "publishedBy": "wuldor",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 13,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 38
+      }
+    }
+  ]
 }
