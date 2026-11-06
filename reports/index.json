@@ -7,5 +7,35 @@
     "app": "axibridge",
     "version": "3.22.10"
   },
-  "entries": []
+  "entries": [
+    {
+      "id": "20261106-180948-q5oz",
+      "title": "Yinhei",
+      "commanders": [
+        "Yinhei"
+      ],
+      "guild": {
+        "id": "EA29A951-A5F9-ED11-8465-0290273D6B3C",
+        "name": "Onyx Vanguard",
+        "tag": "ONYX"
+      },
+      "dateStart": "2026-11-06T18:09:48.000Z",
+      "dateEnd": "2026-11-06T18:56:43.026Z",
+      "dateLabel": "06/11/2026, 18:09:48 - 06/11/2026, 18:56:43",
+      "url": "https://wuldor.github.io/wvw-reports/?report=20261106-180948-q5oz",
+      "publishedBy": "wuldor",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 33,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 48,
+        "avgEnemySize": 41
+      }
+    }
+  ]
 }
